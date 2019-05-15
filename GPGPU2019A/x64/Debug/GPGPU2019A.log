@@ -1,0 +1,8 @@
+﻿  CParticleSystem.cpp
+c:\users\zapet\downloads\fuegosartificialessinimagenes\gpgpu2019a\gpgpu2019a\cparticlesystem.cpp(29): warning C4838: la conversión de 'int' en 'float' requiere una conversión de restricción
+c:\users\zapet\downloads\fuegosartificialessinimagenes\gpgpu2019a\gpgpu2019a\cparticlesystem.cpp(29): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\zapet\downloads\fuegosartificialessinimagenes\gpgpu2019a\gpgpu2019a\cparticlesystem.cpp(51): warning C4305: '=': truncamiento de 'double' a 'float'
+c:\users\zapet\downloads\fuegosartificialessinimagenes\gpgpu2019a\gpgpu2019a\cparticlesystem.cpp(78): warning C4267: '=': conversión de 'size_t' a 'UINT'; posible pérdida de datos
+c:\users\zapet\downloads\fuegosartificialessinimagenes\gpgpu2019a\gpgpu2019a\cparticlesystem.cpp(128): warning C4267: 'argumento': conversión de 'size_t' a 'UINT'; posible pérdida de datos
+c:\users\zapet\downloads\fuegosartificialessinimagenes\gpgpu2019a\gpgpu2019a\cparticlesystem.cpp(140): warning C4267: 'argumento': conversión de 'size_t' a 'UINT'; posible pérdida de datos
+  GPGPU2019A.vcxproj -> C:\Users\zapet\Downloads\FuegosArtificialesSinImagenes\GPGPU2019A\x64\Debug\GPGPU2019A.exe
